@@ -1,0 +1,9 @@
+here we use #amend command 
+i did practice like if we add
+some files in staging area and commit without realizing then after commit we realize oh no i forget to add one more file for same commit
+
+then we use 
+
+git commit --amend
+
+it will override the current commit and put new file also in same commit 
